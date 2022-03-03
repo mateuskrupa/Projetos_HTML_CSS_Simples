@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: black;
+}
+
+.container{
+    background-color: #deec4d;
+    width: 300px;
+    margin: auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+h1{
+    display: inline-block;
+    margin-bottom: 10px;
+}
+
+.form input{
+    border-radius: 30px;
+    padding: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+}
+
+.subscribe{
+    color: white;
+    background-color: #21292d;
+    text-align: center;
+}
+
+p{
+    font-size: 10px;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+#reset{
+    border-radius: px;
+    float: right;
+}
